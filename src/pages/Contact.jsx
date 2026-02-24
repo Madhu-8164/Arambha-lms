@@ -53,7 +53,8 @@ const Contact = () => {
                                             Email Us
                                         </p>
                                         <p className="text-blue-800">
-                                            admissions@arambha.com
+                                            arambhaskilldesignsolutions@gmail.com
+9108032103
                                         </p>
                                     </div>
                                 </div>
@@ -67,7 +68,7 @@ const Contact = () => {
                                             Call Us
                                         </p>
                                         <p className="text-blue-800">
-                                            +91 98765 43210
+                                            +91 9108032103
                                         </p>
                                     </div>
                                 </div>
